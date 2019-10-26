@@ -1,6 +1,6 @@
 # 3D transformations
 
-Implementations of 3D transformations - rotation, translation and changing field of view. Implementation uses homogeneous coordinates. 
+Implementation of 3D transformations using homogeneous coordinates - rotation, translation and changing field of view. 
 
 ### Controls: 
 
